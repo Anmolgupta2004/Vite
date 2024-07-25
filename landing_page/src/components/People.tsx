@@ -45,7 +45,7 @@ const People = () => {
       </p>
 
 <div className="flex flex-row items-center justify-center mt-12 mb-12 w-full">
-      <AnimatedTooltip items={people} />
+      <AnimatedTooltip items = {people} />
     </div>
         
  
